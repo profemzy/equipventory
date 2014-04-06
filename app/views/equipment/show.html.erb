@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @equipment.name %>
+</p>
+
+<p>
+  <strong>Ip:</strong>
+  <%= @equipment.ip %>
+</p>
+
+<p>
+  <strong>Brand:</strong>
+  <%= @equipment.brand %>
+</p>
+
+<p>
+  <strong>Location:</strong>
+  <%= @equipment.location %>
+</p>
+
+<p>
+  <strong>Status:</strong>
+  <%= @equipment.status %>
+</p>
+
+<p>
+  <strong>Admin:</strong>
+  <%= @equipment.admin_id %>
+</p>
+
+<%= link_to 'Edit', edit_equipment_path(@equipment) %> |
+<%= link_to 'Back', equipment_index_path %>

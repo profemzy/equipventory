@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2753227743">
+    <data-source source="LOCAL" name="Rails equipventory: development" uuid="98aab1f8-ebb4-4161-bacd-5a9f615aef40">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/equipventory</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdadfdddfcedf84df9adf9adf9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails equipventory: test" uuid="e0ca9eeb-2fed-4937-a7d6-e2b425fc1dde">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/equipventory</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdadfdddfcedf84df9adf9adf9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails equipventory: production" uuid="42261695-8b50-46a1-89b6-ac1248105455">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/equipventory</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdadfdddfcedf84df9adf9adf9b</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
